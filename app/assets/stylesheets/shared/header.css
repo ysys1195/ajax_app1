@@ -1,0 +1,40 @@
+.header-bar{
+  height: 60px;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  border-bottom: solid 1px black;
+}
+
+.application-title{
+  font-size: 40px;
+  color: white;
+}
+
+.header-bottun{
+  display: flex;
+}
+
+.signin-bottun{
+  height: 40px;
+  text-align: center;
+  width: 130px;
+  font-size: 20px;
+  margin-right: 10px;
+  background-color: #708090;
+  color: white;
+  border: solid 1px black;
+}
+
+.signup-bottun{
+  font-size: 20px;
+  text-align: center;
+  height: 40px;
+  width: 140px;
+  color: white;
+  background-color: #708090;
+  border: 1px solid black;
+}
